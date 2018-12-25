@@ -28,9 +28,13 @@ then
 echo "-CARA MENEMBAK CEWEK YA TONG:v-" | lolcat
 sleep 1
 echo " (1).PERTAMA KAMU HARUS PUNYA DUIT" | lolcat
+sleep 1
 echo " (2).KALO KAGA YAUDAH TANDANYA ELO KAGA PUNYA DUIT :V" | lolcat 
+sleep 1
 echo " (3).JOMBLO HAPPY AJA TOD 😂 " | lolcat
-echo " (4).TERAKHIR. KAMU SHOLAT DULU TONG. MENGHADAP KEPADA ALLAH" | lolcat
+sleep 1
+echo " (4).TERAKHIR. KAMU BERIBADAH  KEPADA ALLAH SWT " | lolcat
+sleep 1
 exit
 fi
 
