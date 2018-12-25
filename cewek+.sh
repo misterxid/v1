@@ -9,19 +9,19 @@ echo                    " [thanks to: I T A              ]"|lolcat
 echo                    " [Note2    : Copyright©MR_XID   ]"|lolcat
 echo                    " [======<>======<>======<>======]"|lolcat
 
-echo    "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" | lolcat
+echo    "=====================" | lolcat
 echo    " 1. TEMBAK CEWE "
-echo    "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" | lolcat
+echo    "=====================| lolcat
 echo    "╭─[PILIH NOMERNYA]"
 read -p "╰─root@./MR_XID=" saf;
 
 if [ $saf = 1 ] || [ $saf = 1 ]
 then
-echo    "----------------------"|lolcat
+echo    "======================"|lolcat
 echo    " 1. cara tembak cewe "
-echo    "----------------------"|lolcat
+echo    "======================"|lolcat
 echo    "╭─[PILIH NOMERNYA]"
-read    "╰─root@./MR_XID=" saf;
+read -p "╰─root@./MR_XID=" saf;
 fi
 if [ $saf = 1 ] || [ $saf = 1 ]
 then
