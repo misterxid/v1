@@ -22,14 +22,12 @@ echo    " 1. cara tembak cewe "
 echo    "======================"|lolcat
 echo    "╭─[PILIH NOMERNYA]"
 read -p "╰─root@./MR_XID=" saf;
-
+fi
 if [ $saf = 1 ] || [ $saf = 1 ]
 then
 echo "CARA MENEMBAK CEWEK YA TONG 😅" | lolcat
 echo "PERTAMA KAMU HARUS PUNYA DUIT" | lolcat
 echo "KALO KAGA YAUDAH GAGAL DEH 😅😅 | lolcat 
 echo "JOMBLO HAPPY AJA TOD 😂 | lolcat
-exit
-if
 exit
 fi
