@@ -17,22 +17,22 @@ read -p "╰─root@./MR_XID=" saf;
 
 if [ $saf = 1 ] || [ $saf = 1 ]
 then
-echo -e "----------------------"|lolcat
-echo -e $r "1.cara tembak cewe ${endc}";
-echo -e "----------------------"|lolcat
-echo -e "╭─[PILIH NOMERNYA]"
-read -p "╰─root@./MR_XID=" saf;
+echo    "----------------------"|lolcat
+echo    " 1. cara tembak cewe "
+echo    "----------------------"|lolcat
+echo    "╭─[PILIH NOMERNYA]"
+read    "╰─root@./MR_XID=" saf;
 fi
 if [ $saf = 1 ] || [ $saf = 1 ]
 then
 echo "CARA MENEMBAK CEWEK YA TONG 😅" | lolcat
-echo "PERTAMA KAMU HARUS PUNYA DUIT"
-echo "KALO KAGA YAUDAH GAGAL DEH 😅😅
-echo "JOMBLO HAPPY AJA TOD 😂
+echo "PERTAMA KAMU HARUS PUNYA DUIT" | lolcat
+echo "KALO KAGA YAUDAH GAGAL DEH 😅😅 | lolcat 
+echo "JOMBLO HAPPY AJA TOD 😂 | lolcat
 exit
 if
 fi
 *) echo "Tod nomor yang elu pilih kaga ada. coky dulu ya"
-esac
-done
-done
+sleep 1
+exit
+fi
