@@ -25,9 +25,13 @@ read -p "╰─root@./MR_XID=" saf;
 fi
 if [ $saf = 1 ] || [ $saf = 1 ]
 then
-echo "CARA MENEMBAK CEWEK YA TONG 😅" | lolcat
-echo "PERTAMA KAMU HARUS PUNYA DUIT" | lolcat
-echo "KALO KAGA YAUDAH GAGAL DEH 😅😅 | lolcat 
-echo "JOMBLO HAPPY AJA TOD 😂 | lolcat
+echo "-CARA MENEMBAK CEWEK YA TONG:v-" | lolcat
+sleep 1
+echo " (1).PERTAMA KAMU HARUS PUNYA DUIT" | lolcat
+echo " (2).KALO KAGA YAUDAH TANDANYA ELO KAGA PUNYA DUIT :V" | lolcat 
+echo " (3).JOMBLO HAPPY AJA TOD 😂 " | lolcat
+echo " (4).TERAKHIR. KAMU SHOLAT DULU TONG. MENGHADAP KEPADA ALLAH" | lolcat
 exit
 fi
+
+
