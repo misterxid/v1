@@ -11,7 +11,7 @@ echo                    " [======<>======<>======<>======]"|lolcat
 
 echo    "=====================" | lolcat
 echo    " 1. TEMBAK CEWE "
-echo    "=====================| lolcat
+echo    "=====================" | lolcat
 echo    "╭─[PILIH NOMERNYA]"
 read -p "╰─root@./MR_XID=" saf;
 
@@ -22,7 +22,7 @@ echo    " 1. cara tembak cewe "
 echo    "======================"|lolcat
 echo    "╭─[PILIH NOMERNYA]"
 read -p "╰─root@./MR_XID=" saf;
-fi
+
 if [ $saf = 1 ] || [ $saf = 1 ]
 then
 echo "CARA MENEMBAK CEWEK YA TONG 😅" | lolcat
@@ -31,8 +31,5 @@ echo "KALO KAGA YAUDAH GAGAL DEH 😅😅 | lolcat
 echo "JOMBLO HAPPY AJA TOD 😂 | lolcat
 exit
 if
-fi
-*) echo "Tod nomor yang elu pilih kaga ada. coky dulu ya"
-sleep 1
 exit
 fi
