@@ -12,6 +12,8 @@ echo                    " [======<>======<>======<>======]"|lolcat
 echo    "=====================" | lolcat
 echo    " 1. TEMBAK CEWE "
 echo    "=====================" | lolcat
+echo.   " 2. SANTET MANTAN "   
+echo    "=====================" | lolcat
 echo    "╭─[PILIH NOMERNYA]"
 read -p "╰─root@./MR_XID=" saf;
 
@@ -29,12 +31,20 @@ echo "-CARA MENEMBAK CEWEK YA TONG:v-" | lolcat
 sleep 1
 echo " (1).PERTAMA KAMU HARUS PUNYA DUIT" | lolcat
 sleep 1
-echo " (2).KALO KAGA YAUDAH TANDANYA ELO KAGA PUNYA DUIT :V" | lolcat 
+echo " (2).KALO KAGA YAUDAH TANDANYA ELO GAGAL NEMBAK CEWE  :V" | lolcat 
 sleep 1
 echo " (3).JOMBLO HAPPY AJA TOD 😂 " | lolcat
 sleep 1
 echo " (4).TERAKHIR. KAMU BERIBADAH  KEPADA ALLAH SWT " | lolcat
 sleep 1
+if [ $saf = 1 ] || [ $saf = 1 ]
+then 
+pkg install git
+git clone https://github.com/4L13199/LITESPAM
+cd LITESPAM
+sleep 1
+sh LITESPAM.sh
+echo "langsung santet mantan :v" | lolcat
 exit
 fi
 
